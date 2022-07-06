@@ -1,0 +1,20 @@
+{
+  "name": "sprint2_team2_final_draft",
+  "version": "1.0.0",
+  "description": "Node ejs, Postgres and Mongo Db databases search program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidJTemple/Semester3_FinalSprint.git"
+  },
+  "author": "DavidJTemple",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidJTemple/Semester3_FinalSprint/issues"
+  },
+  "homepage": "https://github.com/DavidJTemple/Semester3_FinalSprint#readme"
+}
